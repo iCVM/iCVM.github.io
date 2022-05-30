@@ -1,8 +1,14 @@
-# iCVM: An Interpretable Deep Learning Model for CVM Assessment under Label Uncertainty
-
-## Author
-
-Ni Liao, Jian Dai, Yao Tang, Qiaoyong Zhong and Shuixue Mo
+---
+title: "iCVM: An Interpretable Deep Learning Model for CVM Assessment under Label Uncertainty"
+author: "Ni Liao<sup>1</sup>, Jian Dai<sup>1</sup>, Yao Tang, Qiaoyong Zhong<sup>*</sup> and Shuixue Mo"
+date: 2022-05-30
+header-includes: |
+  <style>
+  h1 {
+    font-size: 1.5em;
+  }
+  </style>
+...
 
 ## Abstract
 
@@ -10,25 +16,24 @@ The Cervical Vertebral Maturation (CVM) method aims to determine the craniofacia
 
 ## Paper
 
-TODO: add figures
+![](iCVM_abstract.png)
 
 Download paper
-- [arXiv version]()
-- [J-BHI version]()
+
+- arXiv version
+- J-BHI version
 
 ## CVM-900 Dataset
 
 To apply for the CVM-900 dataset introduced in the paper, please fill the following form and send it to [Qiaoyong Zhong](mailto:zhongqiaoyong@hikvision.com). We will review the application within a week. If the application passes, the download link of the dataset will be sent by email.
 
-```
-Subject: Application for the CVM-900 Dataset
-
-Name: {name of the applicant}
-
-Affiliation: {affiliation and position of the applicant}
-
-Purpose: {usage of the dataset, e.g. acadamic research or commercial use}
-```
+> Subject: Application for the CVM-900 Dataset
+>
+> Name: {name of the applicant}
+>
+> Affiliation: {affiliation and position of the applicant}
+>
+> Purpose: {usage of the dataset, e.g. acadamic research or commercial use}
 
 ## Citation
 
