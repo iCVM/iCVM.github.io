@@ -42,6 +42,10 @@ To apply for the CVM-900 dataset introduced in the paper, please fill the follow
   title={iCVM: An Interpretable Deep Learning Model for CVM Assessment under Label Uncertainty},
   author={Liao, Ni and Dai, Jian and Tang, Yao and Zhong, Qiaoyong and Mo, Shuixue},
   journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2022}
+  year={2022},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1109/JBHI.2022.3179619}
 }
 ```
